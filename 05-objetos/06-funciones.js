@@ -1,0 +1,1 @@
+//Se pueden hacer funciones con funciones como argumentos.
